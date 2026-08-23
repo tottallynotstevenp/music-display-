@@ -1,11 +1,18 @@
 Iten, Quantity, Price 
 
 tft display 1 59.99
+
 esp32 s3 1 39.99
+
 potentiometer 1 8.99
+
 buttons 3 13.99
+
 bread board 1 17.99
+
 solder,flux, desoldering braid 1 13.99 
 
+
 Total 174.89
+
 [Link to buy](https://www.amazon.com/hz/wishlist/ls/2RS1XJ00SKHC2?ref_=wl_share)
